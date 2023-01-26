@@ -1,12 +1,12 @@
-ifndef _MAIN_H_
-define _MAIN_H_
-define INT_BITS (4 * 8)
+#ifndef _MAIN_H_
+#define _MAIN_H_
+#define INT_BITS (4 * 8)
 
-include <stdarg.h>
-include <unistd.h>
-include <stdlib.h>
-include <stdio.h>
-include <limits.h>
+#include <stdarg.h>
+#include <unistd.h>
+#include <stdlib.h>
+#include <stdio.h>
+#include <limits.h>
 
 /**
  * struct call - struct call
