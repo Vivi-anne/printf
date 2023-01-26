@@ -11,3 +11,6 @@ This team project is a custom made printf function for the C programming languag
 The format string is a character string starting and ending with double quotes. The format string is composed of zero or more directives; ordinary characters (not %), and conversion specifications, each of which results in fetching zero or more subsequent arguments.
 
 Each conversion specification is introduced by the character % and ends with a conversion specifier.
+
+## Authors
+Nyakundi Vivianne and Peter Ochieng.
